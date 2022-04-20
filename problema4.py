@@ -6,7 +6,7 @@ for i in range(6):
     if numero % 2 == 0:
         numeropares+=1
     else:
-            numeroimpares+=1
+        numeroimpares+=1
 
 print("la cantidad de numeros pares es: " , numeropares)
 print("la cantidad de numeros impares es: " , numeroimpares)
